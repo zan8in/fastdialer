@@ -16,7 +16,7 @@ require (
 	github.com/yl2chen/cidranger v1.0.2
 	github.com/zan8in/aries v0.0.0-20230307004440-f21c91a7fbba
 	github.com/zan8in/fileutil v0.0.0-20220917063910-ce47dcc0cfa9
-	github.com/zan8in/retryabledns v0.0.0-20230317091000-950134cc7973
+	github.com/zan8in/retryabledns v0.0.0-20230317092826-5ad665eb2521
 	github.com/zan8in/stringsutil v0.0.0-20220917064022-03a0bd835142
 	github.com/zmap/zcrypto v0.0.0-20230310154051-c8b263fd8300
 	go.etcd.io/bbolt v1.3.7
@@ -48,7 +48,6 @@ require (
 	github.com/microcosm-cc/bluemonday v1.0.23 // indirect
 	github.com/miekg/dns v1.1.50 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/projectdiscovery/utils v0.0.14 // indirect
 	github.com/prometheus/client_golang v1.14.0 // indirect
 	github.com/prometheus/client_model v0.3.0 // indirect
 	github.com/prometheus/common v0.39.0 // indirect
@@ -63,7 +62,7 @@ require (
 	github.com/tidwall/rtred v0.1.2 // indirect
 	github.com/tidwall/tinyqueue v0.1.1 // indirect
 	github.com/weppos/publicsuffix-go v0.30.0 // indirect
-	github.com/zan8in/retryablehttp v0.0.0-20230305123201-76eb63e85ecc // indirect
+	github.com/zan8in/retryablehttp v0.0.0-20230317090519-47a043af521d // indirect
 	github.com/zmap/rc2 v0.0.0-20190804163417-abaa70531248 // indirect
 	golang.org/x/crypto v0.7.0 // indirect
 	golang.org/x/exp v0.0.0-20221230185412-738e83a70c30 // indirect
