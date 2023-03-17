@@ -10,11 +10,11 @@ import (
 	"strings"
 	"time"
 
-	retryabledns "github.com/projectdiscovery/retryabledns"
 	"github.com/zan8in/fastdialer/fastdialer/cryptoutil"
 	"github.com/zan8in/fastdialer/fastdialer/hmap/store/hybrid"
 	"github.com/zan8in/fastdialer/fastdialer/iputil"
 	"github.com/zan8in/fastdialer/fastdialer/networkpolicy"
+	"github.com/zan8in/retryabledns"
 	ztls "github.com/zmap/zcrypto/tls"
 	"golang.org/x/net/proxy"
 )

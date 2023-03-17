@@ -8,8 +8,8 @@ import (
 	"strings"
 
 	"github.com/dimchansky/utfbom"
-	"github.com/projectdiscovery/retryabledns"
 	"github.com/zan8in/fastdialer/fastdialer/hmap/store/hybrid"
+	"github.com/zan8in/retryabledns"
 )
 
 func loadHostsFile(hm *hybrid.HybridMap) error {
